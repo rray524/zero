@@ -1,0 +1,28 @@
+#portfolioList{
+	float: left;
+	clear: both;
+	width: 100%;
+}
+
+#portfolioList .site_column.relPosition{
+	float: left;
+	width: 100%;
+	height: 300px;
+}
+
+#portfolioList .site_column.relPosition.item3{
+	margin-right: 0px;
+}
+
+#portfolioList .title{
+	height: 40px;
+	width: 100%;
+	font-size: 14px;
+	text-align: center;
+	line-height: 28px;
+
+}
+
+#portfolioList .image img{
+	
+}

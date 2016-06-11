@@ -1,0 +1,609 @@
+@media (min-width:992px) and (max-width: 1199px) {
+    .slicknav_menu {
+        display: none;
+    }
+    #siteLogo img {
+        width: 99%;
+    }
+    #siteLogo {
+        height: 100px;
+        margin: 25px 0 0 1px !important;
+        width: 232px;
+    }
+    #topMenuBarInner {
+        background: #fff none repeat scroll 0 0;
+        display: block;
+        float: left;
+        height: 129px;
+        width: 108%;
+    }
+    #topMenuBar {
+        left: 59%;
+        margin-left: -559px;
+        position: absolute;
+        top: 60px;
+        z-index: 100;
+    }
+    .col-sm-4 {
+        padding-right: 0;
+    }
+    .col-sm-8 {
+        padding-left: 0;
+    }
+    .nav {
+        float: left;
+        list-style-type: none;
+        margin-left: 0;
+        margin-top: 6%;
+        max-width: 648px;
+        width: 100%;
+    }
+    #contentHolder {
+        float: none;
+        height: auto;
+        line-height: 21px;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+    .imgHolder > img {
+        width: 100%;
+    }
+    #hp_buttonRow ul li DIV.imgHolder {
+        background: #e8e8e8 none no-repeat scroll 0 0;
+        border: 1px solid #c5c5c5;
+        float: left;
+        height: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+    #hp_buttonRow ul li DIV.linkHolder {
+        width: 100%;
+    }
+    .h2,
+    h2 {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 0;
+    }
+    #hp_buttonRow ul li DIV.linkHolder .link_content h2 {
+        margin-bottom: 1px;
+    }
+    #hp_buttonRow ul li .button {
+        background: #ff7300 none repeat scroll 0 0;
+        border-radius: 4px;
+        clear: both;
+        color: #fff;
+        display: block;
+        float: left;
+        font-size: 11px;
+        padding: 3px 8px;
+    }
+    .link_content > p {
+        font-size: 13px;
+        margin: 0 0 1px;
+        padding-bottom: 0;
+    }
+    #hp_buttonRow ul li DIV.linkHolder .link_content {
+        height: 147px;
+    }
+    #hp_buttonRow {
+        height: 198px;
+    }
+    #hp_newsHolder ul li {
+        width: 100%;
+    }
+    #hp_newsHolder {
+        height: 178px;
+    }
+    #hp_newsHolder ul li {
+        padding: 23px 20px 0 0;
+    }
+    .hp_portfolio .hp_portfolioItms {
+        float: none;
+        height: auto;
+        width: 100%;
+    }
+    .hp_portfolio .hp_portfolioItm {
+        background: #f2f2f2 none repeat scroll 0 0;
+        border: 1px solid #c5c5c5;
+        float: none;
+        height: 235px;
+        margin-left: 11px;
+        width: 100%;
+    }
+    .hp_portfolio .hp_portfolioItm > DIV > DIV H3 {
+        font-size: 20px;
+        margin-bottom: 11px;
+    }
+    .label {
+        border-radius: 0.25em;
+        color: #fff;
+        display: inline;
+        font-size: 60%;
+        font-weight: 700;
+        line-height: 1;
+        padding: 0.2em 0.5em 0.3em;
+        text-align: center;
+        vertical-align: baseline;
+        white-space: nowrap;
+    }
+    #footerSection .footer_menu ul {
+        margin: 0 11px 0 15px;
+    }
+    #footerSection #socialMedia {
+        float: right;
+        margin-right: 0;
+        margin-top: -6px;
+    }
+    .fltR {
+        float: right;
+        margin-right: 0;
+    }
+}
+
+@media (min-width:768px) and (max-width: 991px) {
+    .slicknav_menu {
+        display: none;
+    }
+    .openSans span {
+        font-size: 27px !important;
+    }
+    #topMenuBar {
+        left: 76%;
+    }
+    #siteLogo img {
+        width: 104%;
+    }
+    #siteLogo {
+        height: 100px;
+        margin: 25px 0 0 -1px !important;
+        width: 171px;
+    }
+    .col-sm-4.mob_width {
+        width: 28%;
+    }
+    .nav {
+        float: left;
+        list-style-type: none;
+        margin-left: 4%;
+        margin-top: 11%;
+        max-width: 466px;
+        width: 109%;
+    }
+    .nav > li > a {
+        display: block;
+        font-size: 11px;
+        padding: 2px;
+        position: relative;
+    }
+    .headerImage .siteWrapper.content_container .openSans {
+        clear: both;
+        float: left;
+        line-height: 38px;
+        margin-bottom: 30px;
+        text-align: center;
+        width: 100%;
+    }
+    .headerImage .siteWrapper.content_container .header_text a {
+        background: rgba(0, 0, 0, 0) url("../../gfx/but_portfolio.png") no-repeat scroll center top;
+        color: #fff;
+        display: block;
+        font-size: 19px;
+        height: 95px;
+        line-height: 75px;
+        margin: 0 auto;
+        text-align: center;
+        width: 537px;
+    }
+    #hp_buttonRow ul li DIV.imgHolder {
+        background: #e8e8e8 none no-repeat scroll 0 0;
+        border: 1px solid #c5c5c5;
+        float: none;
+        height: auto;
+        margin-right: 0;
+        width: 100%;
+    }
+    .imgHolder > img {
+        width: 100%;
+    }
+    #hp_buttonRow ul li DIV.linkHolder .link_content h2 {
+        font-size: 13px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .link_content > p {
+        font-size: 10px;
+        line-height: 16px;
+    }
+    #hp_buttonRow ul li .button {
+        background: #ff7300 none repeat scroll 0 0;
+        border-radius: 2px;
+        clear: both;
+        color: #fff;
+        display: block;
+        float: left;
+        font-size: 9px;
+        padding: 1px 8px;
+    }
+    #hp_buttonRow ul li DIV.linkHolder .link_content {
+        float: left;
+        height: 109px;
+        overflow: hidden;
+        width: 58%;
+    }
+    #hp_buttonRow {
+        height: 161px;
+    }
+    #mainSection {
+        margin-top: 3px;
+    }
+    #hp_newsHolder ul li {
+        float: left;
+        line-height: 22px;
+        list-style: outside none none;
+        margin: 0;
+        padding: 6px 20px 0 0;
+        width: 100%;
+    }
+    .london {
+        color: #ff7300;
+        font-size: 15px;
+    }
+    .col-sm-6 p {
+        font-size: 12px;
+        padding-bottom: 0;
+    }
+    #hp_newsHolder {
+        height: 152px;
+    }
+    .hp_portfolio .hp_portfolioTxt {
+        float: none;
+        height: auto;
+        width: 100%;
+    }
+    .hp_portfolioTxt h2 {
+        font-size: 22px;
+        margin-top: 0;
+    }
+    .hp_portfolioTxt > p {
+        font-size: 12px;
+    }
+    .label {
+        font-size: 32%;
+    }
+    .hp_portfolio .hp_portfolioItm > DIV > DIV H3 {
+        font-size: 14px;
+        margin-bottom: 7px;
+    }
+    #footerSection .footer_menu ul {
+        margin: 0 2px 0 12px;
+    }
+    #footerSection .footer_menu ul li {
+        font-size: 9px;
+    }
+    #footerSection #socialMedia {
+        float: right;
+        margin-right: -24px;
+        margin-top: 20px;
+    }
+    .alignRight {
+        font-size: 10px;
+        padding-bottom: 0;
+        text-align: right;
+    }
+    .fltR {
+        float: right;
+        margin-right: 1%;
+        width: 100%;
+        padding-left: 59%;
+    }
+    .header > img {
+        height: 14px;
+        width: 14px;
+    }
+    /*contact us*/
+    #contentHolder {
+        float: left;
+        height: auto;
+        line-height: 20px;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+    #rightCol .sidebar {
+        background: #e4e5e6 none repeat scroll 0 0;
+        float: left;
+        height: auto;
+        line-height: 21px;
+        margin-bottom: 30px;
+        padding: 20px;
+        width: 100%;
+    }
+    #rightCol {
+        float: right;
+        height: auto;
+        margin-left: 0;
+        width: 100%;
+    }
+    .content h1 {
+        font-size: 23px;
+    }
+    .col-sm-12.tab > p {
+        font-size: 13px;
+    }
+    .sidebar > p {
+        font-size: 13px;
+    }
+    iframe {
+        height: 264px;
+        width: 114%;
+    }
+    INPUT[type="text"] {
+        font-family: "Open Sans", sans-serif;
+        font-size: 14px;
+        margin-bottom: 11px;
+        padding: 8px 4px;
+        width: 63%;
+    }
+    select {
+        padding: 8px 4px;
+        width: 63%;
+    }
+}
+
+@media (min-width:480px) and (max-width: 767px) {
+    .openSans span {
+        font-size: 20px !important;
+    }
+}
+
+@media (min-width:320px) and (max-width: 767px) {
+    .slicknav_menu {
+        display: block;
+    }
+    .fltL {
+        float: none;
+        font-size: 12px;
+        text-align: left;
+    }
+    .fltR {
+        float: none;
+        margin-right: 0;
+        text-align: center;
+    }
+    #topMenuBarInner {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        display: block;
+        float: none;
+        height: 0;
+        width: 0;
+    }
+    #mainSection {
+        float: none;
+        height: auto;
+        margin-top: 0;
+        width: 100%;
+    }
+    .imgHolder > img {
+        width: 100%;
+    }
+    .col-sm-3.width {
+        width: 100%;
+    }
+    #contentHolder {
+        float: none;
+        height: auto;
+        line-height: 20px;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+    #hp_buttonRow ul li {
+        float: none;
+        line-height: 25px;
+        list-style: outside none none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    #hp_buttonRow ul li DIV.imgHolder {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        border: medium none;
+        float: left;
+        height: 235px;
+        margin-right: 0;
+        width: 100%;
+    }
+    #hp_buttonRow {
+        float: none;
+        height: auto;
+        width: 100%;
+    }
+    #siteLogo {
+        height: 0;
+        margin: 25px 0 0 20px !important;
+        width: 100%;
+    }
+    #topMenuBar {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+    }
+    #topMenuBar {
+        left: 0;
+        position: inherit;
+        top: 130px;
+    }
+    #topMenuBar > div {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .openSans span {
+        font-size: 13px !important;
+    }
+    .headerImage .siteWrapper.content_container .openSans {
+        float: none;
+        line-height: 23px;
+        margin-bottom: 29px;
+        text-align: center;
+    }
+    #siteLogo {
+        margin: 0!important;
+    }
+    .headerImage .siteWrapper.content_container .header_text a {
+        font-size: 17px;
+        width: 245px;
+    }
+    .headerImage .siteWrapper.content_container .header_text p {
+        padding-bottom: 27px;
+    }
+    #siteLogo img {
+        width: 100%;
+    }
+    #hp_buttonRow ul li DIV.imgHolder {
+        float: none;
+        height: auto;
+    }
+    #hp_buttonRow ul li DIV.linkHolder .link_content h2 {
+        font-size: 17px;
+        margin-bottom: 7px;
+        margin-top: 7px;
+    }
+    #hp_buttonRow ul li DIV.linkHolder .link_content {
+        height: auto;
+    }
+    .link_content > p {
+        font-size: 12px;
+        padding-bottom: 0;
+    }
+    #hp_buttonRow ul li DIV.linkHolder {
+        width: 100%;
+    }
+    #hp_buttonRow ul li .button {
+        border-radius: 3px;
+        font-size: 10px;
+        padding: 4px 10px;
+        margin-bottom: 11px;
+    }
+    #hp_buttonRow {
+        border-bottom: medium none;
+    }
+    #hp_newsHolder {
+        border-bottom: 6px solid #c5c5c5;
+        border-top: 6px solid #c5c5c5;
+        float: left;
+        height: auto;
+        width: 100%;
+    }
+    #hp_newsHolder ul li {
+        padding-top: 3px;
+    }
+    #hp_newsHolder ul li h3 {
+        font-size: 1.1em;
+        margin-bottom: 4px;
+        margin-top: 5px;
+    }
+    .london {
+        color: #ff7300;
+    }
+    .london:hover {
+        color: #ff7300;
+    }
+    .london_p {
+        font-size: 12px;
+        padding-bottom: 0;
+    }
+    .hp_portfolio .hp_portfolioTxt {
+        float: none;
+        height: auto;
+        text-align: center;
+        width: 100%;
+    }
+    .hp_portfolio .hp_portfolioTxt H2 {
+        font-size: 22px;
+        margin-bottom: 7px;
+        margin-top: 0;
+    }
+    .hp_portfolio {
+        padding-top: 19px;
+    }
+    .hp_portfolioTxt > p {
+        font-size: 12px;
+    }
+    .hp_portfolio .hp_portfolioItm {
+        margin-bottom: 20px;
+    }
+    #footerSection .footer_menu ul {
+        float: left;
+        height: auto;
+        margin: 0 11px 12px 0;
+        padding: 0;
+        width: auto;
+    }
+    #footerSection .footer_menu ul li a {
+        font-size: 9px;
+    }
+    .alignRight {
+        text-align: left;
+        padding: 0;
+        font-size: 11px;
+    }
+    #footerSection #socialMedia {
+        float: left;
+        margin-right: 0;
+        margin-top: 1px;
+    }
+    .header > img {
+        height: 14px;
+        width: 14px;
+    }
+    /*contact us*/
+    .content h1 {
+        font-size: 19px;
+        text-align: center;
+    }
+    #rightCol .sidebar {
+        line-height: 21px;
+        margin-bottom: 0;
+        width: 100%;
+    }
+    #rightCol {
+        width: 100%;
+    }
+    .sidebar > p {
+        font-size: 12px;
+    }
+    #contentHolder > p {
+        line-height: 0;
+    }
+    h1,
+    h2.contactForm {
+        font-size: 25px;
+        margin-bottom: 14px;
+        padding-bottom: 14px;
+        text-align: center;
+        width: 100%;
+    }
+    #details > p {
+        text-align: center;
+    }
+    td {
+        float: left;
+        width: 100%;
+    }
+    #contentHolder span {
+        padding-right: 2px;
+        width: 100%;
+    }
+    iframe {
+        padding: 10px 0;
+        width: 100%;
+    }
+    /*job*/
+    #contentHolder > p.lheight {
+        line-height: 18px;
+    }
+}

@@ -1,0 +1,39 @@
+.nav {
+    float: left;
+    list-style-type: none;
+    margin-left: 16%;
+    margin-top: 5%;
+    max-width: 641px;
+    width: 100%;
+}
+
+UL.nav > LI {
+    float: left;
+    cursor: pointer;
+    width: auto;
+}
+
+.nav UL {
+    position: absolute;
+    margin: 0;
+    padding: 0px 0px 0px 0px;
+    /*visibility: hidden;*/
+    display: none;
+    min-width: 250px;
+    z-index: 255;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border-radius: 0px 0px 0px 0px;
+    overflow: hidden;
+}
+
+UL.nav UL LI A {
+    display: block;
+    padding: 5px;
+}
+
+UL.nav UL LI {
+    overflow: hidden;
+    font-weight: normal;
+}
+
+UL.sideMenu {}
