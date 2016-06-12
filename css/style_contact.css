@@ -1,0 +1,26 @@
+#slideshow img {
+  height: 211px;
+  
+}
+#slideshow {
+  height: 211px;
+
+}
+iframe {
+  width: 100%;
+}
+.contact_txt > h1 {
+  color: #715a5a;
+  font-size: 23px;
+}
+.contact_txt > p {
+  color: #715a5a;
+}
+.side_panel > h1 {
+  color: #e57314;
+  font-size: 26px;
+}
+.side_panel {
+  background: #e4e5e6 none repeat scroll 0 0;
+  padding: 25px;
+}
