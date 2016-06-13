@@ -93,3 +93,7 @@ textarea#koment {
     resize: none;
     width: 100%;
 }
+
+.side_panel > p {
+    color: #825a5a;
+}
