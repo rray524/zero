@@ -1,69 +1,95 @@
 #slideshow img {
-  height: 211px;
-  
+    height: 211px;
 }
+
 #slideshow {
-  height: 211px;
-
+    height: 211px;
 }
+
 iframe {
-  width: 100%;
+    width: 100%;
 }
-.contact_txt > h1 {
-  color: #715a5a;
-  font-size: 23px;
-}
-.contact_txt > p {
-  color: #715a5a;
-}
-.side_panel > h1 {
-  color: #e57314;
-  font-size: 24px;
-  margin-top: 0;
-}
-.side_panel {
-  background: #e4e5e6 none repeat scroll 0 0;
-  padding: 11px;
-}
-.side_panel {
-  margin-top: 24px;
-}
-.tab p {
-  color: #715a5a;
-}
-.address_area_2 > p {
-  color: #715a5a;
-  font-size: 12px;
-}
-.col-sm-6.padd-less {
-  padding-left: 0;
-}
-.col-sm-9.padd-less {
-  padding-left: 0;
-}
-.form_area > h1 {
-  color: #5a5a5a;
-  font-size: 24px;
-}
-.form-control {
-  border: 1px solid #171717;
-  height: 42px;
-border-radius:0
 
+.contact_txt > h1 {
+    color: #715a5a;
+    font-size: 23px;
 }
+
+.contact_txt > p {
+    color: #715a5a;
+}
+
+.side_panel > h1 {
+    color: #e57314;
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.side_panel {
+    background: #e4e5e6 none repeat scroll 0 0;
+    padding: 11px;
+}
+
+.side_panel {
+    margin-top: 24px;
+}
+
+.tab p {
+    color: #715a5a;
+}
+
+.address_area_2 > p {
+    color: #715a5a;
+    font-size: 12px;
+}
+
+.col-sm-6.padd-less {
+    padding-left: 0;
+}
+
+.col-sm-9.padd-less {
+    padding-left: 0;
+}
+
+.form_area > h1 {
+    color: #5a5a5a;
+    font-size: 24px;
+}
+
+.form-control {
+    border: 1px solid #A9A9A9;
+    height: 42px;
+    border-radius: 0
+}
+
 #cmnt.form-control {
-  border: 1px solid #171717;
-  border-radius: 0;
-  height: 145px;
+    border: 1px solid #171717;
+    border-radius: 0;
+    height: 145px;
 }
+
 .btn-default {
-  background-color: #ff7300;
-  border-color: #ff7300;
-  color: #fff;
+    background-color: #ff7300;
+    border-color: #ff7300;
+    color: #fff;
 }
+
 .col-sm-offset-10.col-sm-10 {
-  padding-left: 0;
+    padding-left: 0;
 }
+
 .form_area {
-  margin-top: 89px;
+    margin-top: 89px;
+}
+
+textarea#koment {
+    border: 1px solid #A9A9A9;
+    color: #333;
+    font-family: sans-serif;
+    font-size: 0.9em;
+    font-weight: 400;
+    height: 143px;
+    padding: 11px 15px;
+    resize: none;
+    width: 100%;
 }

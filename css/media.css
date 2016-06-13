@@ -25,6 +25,9 @@
     .team-fade {
         width: 100%;
     }
+    .col-sm-offset-10.col-sm-10 {
+        margin-left: 79%;
+    }
 }
 
 @media (min-width:768px) and (max-width: 991px) {
